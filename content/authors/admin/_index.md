@@ -26,15 +26,14 @@ interests:
 - machine learning
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD (Dr. sc. hum) in Clinical Pharmacology
+    institution: Heidelberg University, Dept. of Clinical Pharmacology and Pharmacoepidemiology
+    year: 2017
+  - course: MSc in Medical Biometry / Biostatistics
+    institution: Heidelberg University, Institute of Medical Biometry and Informatics
+    year: 2013
+  - course: Approbation in Pharmacy
+    institution: Heidelberg University, Institute of Pharmacy and Molecular Biotechnology
     year: 2008
 
 # Social/Academic Networking
