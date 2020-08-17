@@ -26,6 +26,7 @@ interests:
 - machine learning
 
 education:
+  courses:
   - course: PhD (Dr. sc. hum) in Clinical Pharmacology
     institution: Heidelberg University, Dept. of Clinical Pharmacology and Pharmacoepidemiology
     year: 2017
