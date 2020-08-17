@@ -30,7 +30,7 @@ subtitle = ""
   icon = "open-data"
   icon_pack = "custom"
   name = "Data science"
-  description = "Follower of open Data philosophy"
+  description = "Follower of Open Data philosophy"
   
 [[feature]]
   icon = "pubmed"
