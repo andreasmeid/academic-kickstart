@@ -29,7 +29,7 @@ education:
   - course: PhD (Dr. sc. hum) in Clinical Pharmacology
     institution: Heidelberg University, Dept. of Clinical Pharmacology and Pharmacoepidemiology
     year: 2017
-  - course: MSc in Medical Biometry / Biostatistics
+  - course: MSc in Medical Biometry and Biostatistics
     institution: Heidelberg University, Institute of Medical Biometry and Informatics
     year: 2013
   - course: Approbation in Pharmacy
