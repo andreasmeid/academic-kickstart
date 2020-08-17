@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andreas D. Meid
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher in Clinical Pharmacology & Pharmacoepidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Heidelberg University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- biostatistics
+- pharmacometrics
+- machine learning
 
 education:
   courses:
