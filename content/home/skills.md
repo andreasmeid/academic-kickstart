@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "open-data"
-  icon_pack = "fas"
+  icon_pack = "custom"
   name = "Data science"
   description = "Open Data"
 
