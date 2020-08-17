@@ -36,7 +36,19 @@ subtitle = ""
   icon = "pubmed"
   icon_pack = "custom"
   name = "Publishing"
-  description = "Passionate writer"
+  description = "Passionate writer"  
+  
+[[feature]]
+  icon = "publons-square"
+  icon_pack = "custom"
+  name = "Peer-reviewing"
+  description = "Dedicated peer-reviewer"
+    
+[[feature]]
+  icon = "biking-solid"
+  icon_pack = "custom"
+  name = "Bike"
+  description = "Cycle to work!"
 
 # Uncomment to use emoji icons.
 # [[feature]]
