@@ -18,19 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Proficient R user including interfaces to other programs (e.g., monolix)"
+  description = "Proficient R user including interfaces to other programs (e.g., Monolix)"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Trained statistics"  
+  description = "Trained statistician"  
   
 [[feature]]
   icon = "open-data"
   icon_pack = "custom"
   name = "Data science"
-  description = "Open Data"
+  description = "Follower of open Data philosophy"
+  
+[[feature]]
+  icon = "pubmed"
+  icon_pack = "custom"
+  name = "Publishing"
+  description = "Passionate writer"
 
 # Uncomment to use emoji icons.
 # [[feature]]
