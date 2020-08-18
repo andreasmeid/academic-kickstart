@@ -5,7 +5,7 @@ authors:
 - Walter E. Haefeli
 - admin
 date: "2020-05-29T00:00:00Z"
-doi: "10.1371/journal.pone.0233686. eCollection 2020"
+doi: "10.1371/journal.pone.0233686"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-29T00:00:00Z"
