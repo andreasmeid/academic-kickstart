@@ -12,8 +12,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: teacher
-  icon_pack: custom
+- icon: "teacher"
+  icon_pack: "custom"
   name: Reproducible Research
   url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=319919
 # url_code: ""
