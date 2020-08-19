@@ -57,7 +57,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/31823832/
 url_code: ''
 url_dataset: ''
 url_poster: ''
