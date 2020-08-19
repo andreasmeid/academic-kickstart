@@ -23,7 +23,7 @@ publishDate: "2018-08-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Anal Chem. 2018;90(15):9395-9402*"
+publication: "*Anal Chem. 90(15):9395-9402*"
 publication_short: ""
 
 abstract: []
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/29985592/
 url_code: ''
 url_dataset: ''
 url_poster: ''
