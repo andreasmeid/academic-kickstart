@@ -68,4 +68,4 @@ projects: []
 slides: []
 ---
 
-Supplementary notes:
+Supplementary notes: none
