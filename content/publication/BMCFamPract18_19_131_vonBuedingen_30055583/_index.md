@@ -21,7 +21,7 @@ publishDate: "2018-07-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* BMC Fam Pract. 2018;19(1):131*"
+publication: "*BMC Fam Pract. 2018;19(1):131*"
 publication_short: ""
 
 abstract: []
