@@ -22,12 +22,11 @@ bio: My research interests include pharmacoepidemiological analyses of medicatio
 
 interests:
 - biostatistics
-- pharmacoepidemiology
-- population pharmacokinetics / modeling
-- pharmacometrics
-- meta-analysis
-- penalized regression
-- machine learning
+- pharmacoepidemiology with focus on drug effectiveness and safety in older patients, meta-analysis
+- pharmacometrics, population pharmacokinetics / modeling
+- personalized (model-based) decision support
+- penalized regression, machine learning
+- big data analytics exploring drug utilization patterns (*prescriptome*)
 
 education:
   courses:
@@ -66,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. He leads the Pharmacoepidemiology group, which carries out observational studies and develops prediction models from routine claims data.
+Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. He leads the Pharmacoepidemiology group, which carries out observational studies and develops prediction models from routine claims data. The overall aims include benefit and risk quantification and prediction in regular and special populations (frail patients, older people, children).
