@@ -22,7 +22,11 @@ bio: My research interests include pharmacoepidemiological analyses of medicatio
 
 interests:
 - biostatistics
+- pharmacoepidemiology
+- population pharmacokinetics / modeling
 - pharmacometrics
+- meta-analysis
+- penalized regression
 - machine learning
 
 education:
@@ -45,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:andreasmeid@med.uni-heidelberg.de'  # For a direct email link, use "mailto:andreasmeid@med.uni-heidelberg.de".
+  link: 'mailto:andreas.meid@med.uni-heidelberg.de'  # For a direct email link, use "mailto:andreasmeid@med.uni-heidelberg.de".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Andreas D. Meid is a post-doctoral researcher.
+Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. He leads the Pharmacoepidemiology group, which carries out observational studies and develops prediction models from routine claims data.
