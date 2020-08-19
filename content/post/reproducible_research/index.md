@@ -10,6 +10,8 @@ image:
 
 Just having finished the second round of **Reproducible Research for quantitative analyses**.
 
+# schedule
+
 + 1. Reproducible Research: an introduction
 + 2. Dynamic Workflow: requirements for workflow and structure
 + 3. An introduction into R
