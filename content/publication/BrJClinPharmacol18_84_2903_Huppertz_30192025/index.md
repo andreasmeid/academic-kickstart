@@ -22,7 +22,7 @@ publishDate: "2018-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Br J Clin Pharmacol 84(12):2903-2913.*"
+publication: "*Br J Clin Pharmacol 84(12):2903-2913*"
 publication_short: ""
 
 abstract: []
