@@ -22,7 +22,7 @@ authors:
 - Felix Sahm
 - Lenka Taylor
 - Angelika Freitag
-- Jürgen Burhenne
+- Juergen Burhenne
 - Kathrin I Foerster
 - admin 
 - Stefan M Pfister
