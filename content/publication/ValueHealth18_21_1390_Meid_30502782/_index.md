@@ -9,7 +9,6 @@ authors:
 - Christian Guenster
 - Hans-Helmut Koenig
 - Walter E Haefeli
-
 date: "2018-12-01T00:00:00Z"
 doi: "10.1016/j.jval.2018.05.007"
 
@@ -68,3 +67,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+Supplementary notes:
