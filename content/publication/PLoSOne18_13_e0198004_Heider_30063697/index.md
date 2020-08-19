@@ -2,7 +2,7 @@
 title: "The impact of potentially inappropriate medication on the development of health care costs and its moderation by the number of prescribed substances. Results of a retrospective matched cohort study"
 authors:
 - Dirk Heider
-- HerbertHerbert Matschinger 
+- Herbert Matschinger 
 - admin 
 - Renate Quinzler
 - Juergen-Bernhard Adler 
