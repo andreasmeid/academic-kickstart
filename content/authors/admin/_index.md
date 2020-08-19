@@ -22,11 +22,11 @@ bio: My research interests include pharmacoepidemiological analyses of medicatio
 
 interests:
 - biostatistics
-- pharmacoepidemiology to study real-world drug effectiveness and safety, meta-analysis
+- real-world drug effectiveness and safety, meta-analysis
 - pharmacometrics, population pharmacokinetics / modeling
 - personalized (model-based) decision support
 - predictive modeling incl. penalized regression, machine learning
-- big data analytics (*prescriptome*)
+- big data analytics
 
 education:
   courses:
