@@ -1,5 +1,5 @@
 ---
-title: Habilitation project
+title: Habilitation
 summary: Steps towards habilitation.
 tags: 
 date: "2020-08-19T00:00:00Z"
