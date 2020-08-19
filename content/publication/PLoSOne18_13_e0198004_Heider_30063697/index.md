@@ -22,7 +22,7 @@ publishDate: "2018-07-3T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PLoS One 13(7):e0198004"
+publication: "*PLoS One 13(7):e0198004*"
 publication_short: ""
 
 abstract: []
