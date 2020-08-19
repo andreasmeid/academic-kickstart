@@ -16,6 +16,21 @@ links:
   icon_pack: "custom"
   name: Reproducible Research
   url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=319919
+  
+- icon: "teacher"
+  icon_pack: "custom"
+  name: Quantitative Systems Pharmacology (Oncology)
+  url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=318904
+  
+- icon: "teacher"
+  icon_pack: "custom"
+  name: Pharmacoepidemiology and -economics
+  url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=300608&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+  
+- icon: "teacher"
+  icon_pack: "custom"
+  name: Applied Pharmacoepidemiology
+  url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=303573&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -29,4 +44,4 @@ links:
 slides: ""
 ---
 
-, Quantitative Systems Pharmacology in der Onkologie, Pharmakoepidemiologie und -ökonomie, Angewandte Pharmakoepidemiologie, among others.
+Please click links to the selected courses above. 
