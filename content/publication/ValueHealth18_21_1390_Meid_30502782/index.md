@@ -29,7 +29,7 @@ abstract: Objective was to develop and internally validate prediction models for
 
 
 # Summary. An optional shortened abstract.
-summary: Our study showed that a large number of the clinically-defined explicit prescribing criteria from the STOPP/START list can beadapted to reliably predict adverse outcomes in claims data. The good predictive performance supports the notion that routine monitoring of medication safety in individual patients is possible under almost real-time conditions. To assess its clinical utility, implementation of these criteria within an interventional program to optimize prescribing is desired to further evaluate the effectiveness of this approach.
+summary: Our study showed that a large number of the clinically-defined explicit prescribing criteria from the STOPP/START list can beadapted to reliably predict adverse outcomes in claims data. The good predictive performance supports the notion that routine monitoring of medication safety in individual patients is possible under almost real-time conditions. 
 
 tags:
 - Source Themes
