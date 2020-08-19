@@ -3,7 +3,6 @@ title: "Pill-count and the arithmetic of risk: Evidence that polypharmacy is a h
 authors:
 - Walter E Haefeli
 - admin
-
 date: "2018-12-01T00:00:00Z"
 doi: "10.5414/CP203372"
 
@@ -32,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/30369395/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,3 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+{{% alert note %}}
+Click the respective buttons for more information.
+{{% /alert %}}
