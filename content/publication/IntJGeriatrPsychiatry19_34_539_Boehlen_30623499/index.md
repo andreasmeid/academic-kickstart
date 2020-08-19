@@ -23,7 +23,7 @@ publishDate: "2019-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Int J Geriatr Psychiatry 34(4):539-547"
+publication: "*Int J Geriatr Psychiatry 34(4):539-547*"
 publication_short: ""
 
 abstract: []
