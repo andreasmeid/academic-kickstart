@@ -28,7 +28,6 @@ authors:
 - Stefan M Pfister
 - Irini Karapanagiotou-Schenkel 
 - Olaf Witt
-
 date: "2019-10-10T00:00:00Z"
 doi: "10.1186/s13148-019-0775-1"
 
@@ -88,3 +87,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+Supplementary notes: -
