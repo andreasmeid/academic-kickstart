@@ -23,7 +23,7 @@ publishDate: "2018-08-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Value Health. 2018;21(12):1390-1398*"
+publication: "*Anal Chem. 2018;90(15):9395-9402*"
 publication_short: ""
 
 abstract: []
