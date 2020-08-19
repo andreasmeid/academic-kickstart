@@ -10,7 +10,7 @@ authors:
 - Jens-Peter Schenk
 - Juliane L Buhl
 - Dennis Riehl
-- Michael C Frühwald 
+- Michael C Fruehwald 
 - Arnulf Pekrun
 - Claudia Rossig
 - Regina Wieland
@@ -45,7 +45,7 @@ publication_types: ["2"]
 publication: "*Clin Epigenetics 11(1):188*"
 publication_short: ""
 
-abstract: Background:  Until today, adult and pediatric clinical trials investigating single-agent or combinatorial HDAC inhibitors including vorinostat in solid tumors have largely failed to demonstrate efficacy. These results may in part be explained by data from preclinical models showing significant activity only at higher concentrations compared to those achieved with current dosing regimens. In the current pediatric trial, we applied an intra-patient dose escalation design. The purpose of this trial was to determine a safe dose recommendation (SDR) of single-agent vorinostat for intra-patient dose escalation, pharmacokinetic analyses (PK), and activity evaluation in children (3-18 years) with relapsed or therapy-refractory malignancies. Results:  A phase I intra-patient dose (de)escalation was performed until individual maximum tolerated dose (MTD). The starting dose was 180 mg/m2/day with weekly dose escalations of 50 mg/m2 until DLT/maximum dose. After MTD determination, patients seamlessly continued in phase II with disease assessments every 3 months. PK and plasma cytokine profiles were determined. Fifty of 52 patients received treatment. n = 27/50 (54%) completed the intra-patient (de)escalation and entered phase II. An SDR of 130 mg/m2/day was determined (maximum, 580 mg/m2/day). n = 46/50 (92%) patients experienced treatment-related AEs which were mostly reversible and included thrombocytopenia, fatigue, nausea, diarrhea, anemia, and vomiting. n = 6/50 (12%) had treatment-related SAEs. No treatment-related deaths occurred. Higher dose levels resulted in higher Cmax. Five patients achieved prolonged disease control (> 12 months) and showed a higher Cmax (> 270 ng/mL) and MTDs. Best overall response (combining PR and SD, no CR observed) rate in phase II was 6/27 (22%) with a median PFS and OS of 5.3 and 22.4 months. Low levels of baseline cytokine expression were significantly correlated with favorable outcome. Conclusion:  An SDR of 130 mg/m2/day for individual dose escalation was determined. Higher drug exposure was associated with responses and long-term disease stabilization with manageable toxicity. Patients with low expression of plasma cytokine levels at baseline were able to tolerate higher doses of vorinostat and benefited from treatment. Baseline cytokine profile is a promising potential predictive biomarker.
+abstract: []
 
 
 # Summary. An optional shortened abstract.
