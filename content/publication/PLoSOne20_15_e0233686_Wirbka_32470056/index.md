@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'SimBaCo: [**Unsplash**](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0233686&type=printable)'
   focal_point: ""
   preview_only: false
 
@@ -62,8 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
-
-{{% alert note %}}
-Click the respective buttons for more information.
-{{% /alert %}}
 
