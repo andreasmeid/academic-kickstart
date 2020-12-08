@@ -1,5 +1,5 @@
 ---
-title: "How complete is the Germany-wide standardised medication list ("Bundeseinheitlicher Medikationsplan")? An analysis at hospital admission."
+title: "How complete is the Germany-wide standardised medication list (Bundeseinheitlicher Medikationsplan)? An analysis at hospital admission."
 authors:
 - Stefanie Amelung
 - Bianca Bender
