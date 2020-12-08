@@ -1,7 +1,7 @@
 ---
 title: "A prognostic model predicted deterioration in health-related quality of life in older patients with multimorbidity and polypharmacy"
 authors:
-- Ana I Gonzalez-Gonzalez
+- Ana I. Gonzalez-Gonzalez
 - admin
 - Truc S. Dinh
 - Jeanet W. Blom
@@ -25,6 +25,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- 
 date: "2020-10-13T00:00:00Z"
 doi: "10.1016/j.jclinepi.2020.10.006"
 
