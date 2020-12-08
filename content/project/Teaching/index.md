@@ -29,6 +29,11 @@ links:
   
 - icon: "teacher"
   icon_pack: "custom"
+  name: Mathematics and Statistics for pharmacists
+  url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=337371&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung 
+  
+- icon: "teacher"
+  icon_pack: "custom"
   name: Applied Pharmacoepidemiology
   url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=303573&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 # url_code: ""
