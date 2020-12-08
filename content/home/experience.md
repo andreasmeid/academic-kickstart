@@ -39,8 +39,8 @@ date_format = "2006"#Jan 2006
   company = "Heidelberg University Hospital, Dept. of Clinical Pharmacology & Pharmacoepidemiology"
   company_url = ""
   location = "Heidelberg"
-  date_start = "2017-04-30"
-  date_end = "2014-01-15"
+  date_start = "2014-01-15"
+  date_end = "2017-04-30"
   description = """
   Responsibilities include:
   
