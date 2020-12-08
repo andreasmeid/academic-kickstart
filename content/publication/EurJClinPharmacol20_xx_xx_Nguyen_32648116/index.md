@@ -21,7 +21,7 @@ publishDate: "2020-07-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Eur J Clin Pharmacol (Online ahead of print)*"
+publication: "*Eur J Clin Pharmacol 2020;76:1695-1707*"
 publication_short: ""
 
 abstract: []
