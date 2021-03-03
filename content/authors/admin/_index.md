@@ -21,12 +21,10 @@ organizations:
 bio: My research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. 
 
 interests:
-- biostatistics
-- real-world drug effectiveness and safety, meta-analysis
-- pharmacometrics, population pharmacokinetics / modeling
-- personalized (model-based) decision support
-- predictive modeling incl. penalized regression, machine learning
-- big data analytics
+- personalized decision support from predictive modeling and machine learning
+- pharmacoepidemiology for real-world evidence on effectiveness and safety, meta-analysis
+- biostatistics, pharmacometrics, population pharmacokinetics / modeling
+
 
 education:
   courses:
@@ -65,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. Research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. He leads the Pharmacoepidemiology group, which conducts and analyzes observational studies and develops prediction models from routine claims data. The overall aims address quantification of drug benefits and risks and their prediction in regular and special populations (frail patients, older people, children).
+Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. Research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. He leads the Pharmacoepidemiology group, which designs and analyzes observational studies and develops prediction models from routine claims data. Overall, he aims to quantify benefits and risks of drugs for predicting outcomes and deriving treatment recommendations in regular and special populations (e.g., older patients).
