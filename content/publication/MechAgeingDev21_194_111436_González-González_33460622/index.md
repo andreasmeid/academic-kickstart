@@ -1,5 +1,5 @@
 ---
-title: "A prognostic model predicted deterioration in health-related quality of life in older patients with multimorbidity and polypharmacy"
+title: "Predicting negative health outcomes in older general practice patients with chronic illness: Rationale and development of the PROPERmed harmonized individual participant data database."
 authors:
 - Ana I. Gonzalez-Gonzalez
 - Truc S. Dinh
