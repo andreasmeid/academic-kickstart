@@ -18,11 +18,11 @@ authors:
 - Paul P. Glasziou
 - Walter E. Haefeli
 - Christiane Muth
-date: "2020-11-23T00:00:00Z"
-doi: ""
+date: "2021-01-14T00:00:00Z"
+doi: "10.3389/fphar.2020.577747"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-23T00:00:00Z"
+publishDate: "2021-01-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publishDate: "2020-11-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers 2020 (accepted online article)*"
+publication: "*Front Pharmacol 2020;11:577747*"
 publication_short: ""
 
 abstract: []
@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/?term=Are+anticholinergic+symptoms+a+risk+factor+for+falls+in+older+general+practice+patients+with+polypharmacy&size=200
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/33519441/
 url_code: ''
 url_dataset: ''
 url_poster: ''
