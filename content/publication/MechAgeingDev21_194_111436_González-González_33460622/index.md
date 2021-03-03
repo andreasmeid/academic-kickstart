@@ -22,10 +22,6 @@ authors:
 - Walter E. Haefeli
 - Paul P. Glasziou
 - Christiane Muth 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- 
 date: "2021-01-15T00:00:00Z"
 doi: "10.1016/j.mad.2021.111436"
 
