@@ -8,7 +8,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Just having finished the second round of **Reproducible Research for quantitative analyses**.
+Maintaining the framework also for the third round of **Reproducible Research for quantitative analyses** in summer semster 2021. Please feel free to contact me if you're interested in participating.
 
 # schedule
 
