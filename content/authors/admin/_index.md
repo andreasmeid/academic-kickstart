@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD (Dr. sc. hum) in Clinical Pharmacology
+  - course: Doctorate (Dr. sc. hum) in Clinical Pharmacology
     institution: Heidelberg University, Dept. of Clinical Pharmacology and Pharmacoepidemiology
     year: 2017
   - course: MSc in Medical Biometry and Biostatistics
