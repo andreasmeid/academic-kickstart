@@ -1,7 +1,7 @@
 ---
 title: "Are anticholinergic symptoms a risk factor for falls in older general practice patients with polypharmacy? Study protocol for the development and validation of a prognostic model"
 authors:
-- Truc S. Nguyen
+- Truc S. Dinh
 - Ana I. Gonzalez-Gonzalez
 - admin 
 - Kym Snell
