@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Nine Instruments to Calculate Anticholinergic Load in a Large Cohort of Older Outpatients: Association with Cognitive and Functional Decline, Falls, and Use of Laxatives "
+title: "Comparison of Five Lists to Identify Potentially Inappropriate Use of Non-Steroidal Anti-Inflammatory Drugs in Older Adults"
 authors:
 - Thi Ngoc Mai Nguyen 
 - Dana C. Laetsch
