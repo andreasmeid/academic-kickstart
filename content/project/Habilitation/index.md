@@ -7,9 +7,10 @@ date: "2020-08-19T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
 
 links:
 - icon: "teacher"
@@ -44,7 +45,7 @@ links:
 
 - icon: "teacher"
   icon_pack: "custom"
-  name: Combinations of QTc-prolonging drugs: towards disentangling pharmacokinetic and pharmacodynamic effects
+  name: Disentangling pharmacokinetic and pharmacodynamic effects in combinations of QT-prolonging drugs
   url: https://andreas-d-meid.netlify.app/publication/theradvpsychopharmacol17_7_251_meid_29201344/
 
 - icon: "teacher"
