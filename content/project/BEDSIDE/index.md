@@ -12,10 +12,15 @@ image:
   focal_point: Smart
 
 links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: "teacher"
+  icon_pack: "custom"
+  name: Using the causal inference framework to support individualized drug treatment decisions
+  url: https://andreas-d-meid.netlify.app/publication/clinepidemiol20_12_1223_meid_33173350/ 
+
+- icon: "teacher"
+  icon_pack: "custom"
+  name: Similarity-based cohorts for personalized treatment advice
+  url: https://andreas-d-meid.netlify.app/publication/plosone20_15_e0233686_wirbka_32470056/
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -29,4 +34,4 @@ links:
 slides: ""
 ---
 
-Manuscript with piloting application drafted in Aril 2021 ...
+The above publications address the funded topic. Another manuscript with a piloting proof-of-concept is currently under review.
