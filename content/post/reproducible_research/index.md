@@ -8,14 +8,14 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Maintaining the framework also for the third round of **Reproducible Research for quantitative analyses** in summer semster 2021. Please feel free to contact me if you're interested in participating.
+I will maintain the established framework also for the fourth round of **Reproducible Research for quantitative analyses** in summer semster 2022. Please feel free to contact me if you're interested in participating.
 
 # schedule
 
 + 1. Reproducible Research: an introduction
 + 2. Dynamic Workflow: requirements for workflow and structure
 + 3. An introduction into R
-+ 4. Bring your data: presentation of own project
++ 4. Bring your data: presentation of planned projects
 + 5. Data management with dplyr & Co
 + 6. Data visualization with ggplot2 & Co
 + 7. Publishing and reporting with Markdown, Shiny & Co 
