@@ -49,4 +49,4 @@ links:
 slides: ""
 ---
 
-Please click links to the selected courses above. 
+In case of further interest, please click on the above links of selected courses.
