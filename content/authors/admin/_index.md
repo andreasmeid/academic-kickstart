@@ -34,7 +34,7 @@ education:
   - course: MSc in Medical Biometry and Biostatistics
     institution: Heidelberg University, Institute of Medical Biometry and Informatics
     year: 2013
-  - course: Approbation in Pharmacy
+  - course: Approbation of Pharmacy
     institution: Heidelberg University, Institute of Pharmacy and Molecular Biotechnology
     year: 2008
 
