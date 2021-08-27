@@ -34,4 +34,4 @@ links:
 slides: ""
 ---
 
-The above publications address the funded topic. Another manuscript with a piloting proof-of-concept is currently under review.
+The above publications address the funded topic. Another manuscript with a piloting proof-of-concept is currently under review (entitled "Can machine-learning from real-world data support drug treatment decisions? A prediction modeling case for direct oral anticoagulants").
