@@ -3,7 +3,6 @@ title: "Renal Safety of Hydroxyethyl starch 130-0.42 After Cardiac Surgery: A Re
 authors:
 - Benedict Morath
 - admin
-- Ana I. Gonzalez-Gonzalez
 - Johannes Rickmann
 - Jasmin Soethoff
 - Markus Verch
