@@ -1,5 +1,5 @@
 ---
-title: "Renal Safety of Hydroxyethyl starch 130/0.42 After Cardiac Surgery: A Retrospective Cohort Analysis"
+title: "Renal Safety of Hydroxyethyl starch 130-0.42 After Cardiac Surgery: A Retrospective Cohort Analysis"
 authors:
 - Benedict Morath
 - admin
