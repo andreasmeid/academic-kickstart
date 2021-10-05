@@ -26,7 +26,7 @@ publishDate: "2021-09-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Drug Saf 2021"
+publication: "*Drug Saf 2021*"
 publication_short: ""
 
 abstract: []
