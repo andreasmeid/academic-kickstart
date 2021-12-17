@@ -33,7 +33,7 @@ summary: Our study showed that a large number of the clinically-defined explicit
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
