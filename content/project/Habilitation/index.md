@@ -81,4 +81,4 @@ links:
 slides: ""
 ---
 
-Please take a look at the above publications with direct relevance to the habilitation. The Scientific Colloquium ("Wissenschaftliches Kolloqium") will take place on 30.9.2021. The topic will be "Personalisierung der Arzneimitteltherapie mit Gesundheitsroutinedaten: Hilfe, Hoffnung oder Hype?". 
+Please take a look at the above publications with direct relevance to the habilitation. After the Scientific Colloquium ("Wissenschaftliches Kolloqium") with the presentation about "Personalisierung der Arzneimitteltherapie mit Gesundheitsroutinedaten: Hilfe, Hoffnung oder Hype?", the habilitation thesis is submitted. 
