@@ -8,9 +8,9 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-I will maintain the established framework also for the fourth round of **Reproducible Research for quantitative analyses** in summer semster 2022. Please feel free to contact me if you're interested in participating.
+Experiences from the first round of **Reproducible Research for quantitative analyses** are now published in BMC Res Notes. 2021;14(1):445. I will maintain the established framework also for the next turn in summer semester 2022. Please feel free to contact me if you're interested in participating.
 
-# schedule
+# Schedule
 
 + 1. Reproducible Research: an introduction
 + 2. Dynamic Workflow: requirements for workflow and structure
