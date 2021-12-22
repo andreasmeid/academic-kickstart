@@ -14,6 +14,11 @@ image:
 links:
 - icon: "teacher"
   icon_pack: "custom"
+  name: Can Machine Learning from Real-World Data Support Drug Treatment Decisions? A Prediction Modeling Case for Direct Oral Anticoagulants
+  url: https://andreas-d-meid.netlify.app/publication/meddecismaking21_xx_272989x211064604_meid_34911402/ 
+
+- icon: "teacher"
+  icon_pack: "custom"
   name: Using the causal inference framework to support individualized drug treatment decisions
   url: https://andreas-d-meid.netlify.app/publication/clinepidemiol20_12_1223_meid_33173350/ 
 
@@ -34,4 +39,4 @@ links:
 slides: ""
 ---
 
-The above publications address the funded topic. Another manuscript with a piloting proof-of-concept is currently under review (entitled "Can machine-learning from real-world data support drug treatment decisions? A prediction modeling case for direct oral anticoagulants").
+The above publications address the funded topic.
