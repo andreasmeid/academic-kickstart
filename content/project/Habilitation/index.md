@@ -15,6 +15,11 @@ image:
 links:
 - icon: "teacher"
   icon_pack: "custom"
+  name: Can Machine Learning from Real-World Data Support Drug Treatment Decisions? A Prediction Modeling Case for Direct Oral Anticoagulants
+  url: https://andreas-d-meid.netlify.app/publication/meddecismaking21_xx_272989x211064604_meid_34911402/ 
+
+- icon: "teacher"
+  icon_pack: "custom"
   name: Predicting hospital admissions from individual patient data
   url: https://andreas-d-meid.netlify.app/publication/bmjopen21_11_e045572_meid/
   
