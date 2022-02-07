@@ -2,7 +2,6 @@
 title: "Low exposure to direct oral anticoagulants is associated with ischemic stroke and its severity"
 authors:
 - Timolaos Rizos
-- Ana I. Gonzalez-Gonzalez
 - admin
 - Andrea Huppertz
 - Chris Dumschat
