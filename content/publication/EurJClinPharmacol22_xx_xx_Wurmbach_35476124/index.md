@@ -79,5 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
-
-Supplementary notes: -
