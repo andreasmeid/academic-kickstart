@@ -1,6 +1,5 @@
 ---
 title: "Prevalence and patient-rated relevance of complexity factors in medication regimens of community-dwelling patients with polypharmacy"
-Affiliations 
 authors:
 - Viktoria S Wurmbach
 - Steffen J Schmidt
