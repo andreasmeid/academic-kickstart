@@ -86,4 +86,6 @@ links:
 slides: ""
 ---
 
-Please take a look at the above publications with direct relevance to the habilitation. After the Scientific Colloquium ("Wissenschaftliches Kolloqium") with the presentation about "Personalisierung der Arzneimitteltherapie mit Gesundheitsroutinedaten: Hilfe, Hoffnung oder Hype?", the habilitation thesis has now been submitted. 
+Please take a look at the above publications with direct relevance to the habilitation. 
+
+With the inaugural lecture "Prediction of drug effects with the computer - science or fiction?" the habilitation procedure has been successfully completed. I would like to thank all those who have accompanied and supported me on this path
