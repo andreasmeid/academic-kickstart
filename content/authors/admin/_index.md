@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include pharmacoepidemiological analyses of medication underuse, overuse, and misuse, as well as predictive models guiding treatment recommendations. 
+bio: My research interests include the study of appropriate drug therapy using methods of pharmacoepidemiology, quantitative pharmacology, and pharmacometrics.  
 
 interests:
 - personalized decision support from predictive modeling and machine learning
