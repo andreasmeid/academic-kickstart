@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Habilitation in "Clinical Pharmacology and Pharmacoepidemiology"
+  - course: Habilitation in Clinical Pharmacology and Pharmacoepidemiology
     institution: Medical Faculty Heidelberg
     year: 2022
   - course: Doctorate (Dr. sc. hum) in Clinical Pharmacology
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Andreas D. Meid is a post-doctoral researcher in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. Research interests include the exploration of large (pharmacoepidemiologic) databases to determine individualized treatment recommendations by means of predictive modeling for personalizing medicine. He collaborates with clinicians and leading methodologists and applies cutting-edge methods of parametric statistical modeling, Bayesian statistics, and machine learning. In addition to leading the Pharmacoepidemiology group, he is also deeply involved in various analyses of quantitative Pharmacology and Pharmacometrics. In doing so, he aims to quantify benefits and risks of drugs in regular and special populations (e.g., older or pediatric patients).
+Andreas D. Meid is a post-doctoral researcher and private lecturer in the Dept. of Clinical Pharmacology & Pharmacoepidemiology at Heidelberg University Hospital. Research interests include exploring (pharmacoepidemiologic) databases to determine individualized treatment recommendations using predictive modeling. He collaborates with clinicians and methodologists and applies cutting-edge methods of parametric statistical modeling and machine learning. In addition to leading the Pharmacoepidemiology group, he is also extensively involved in various quantitative pharmacology and pharmacometrics analyses. In doing so, he aims to quantify benefits and risks of drugs in regular and special populations (e.g., older or pediatric patients).
