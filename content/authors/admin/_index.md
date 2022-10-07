@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Habilitation in "Clinical Pharmacology and Pharmacoepidemiology"
+    institution: Medical Faculty Heidelberg
+    year: 2022
   - course: Doctorate (Dr. sc. hum) in Clinical Pharmacology
     institution: Heidelberg University, Dept. of Clinical Pharmacology and Pharmacoepidemiology
     year: 2017
