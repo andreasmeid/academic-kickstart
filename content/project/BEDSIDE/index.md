@@ -39,4 +39,4 @@ links:
 slides: ""
 ---
 
-The above publications address the funded topic.
+The above publications address the funded topic, which has been successfully completed.
