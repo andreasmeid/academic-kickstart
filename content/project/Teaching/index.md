@@ -49,4 +49,4 @@ links:
 slides: ""
 ---
 
-In case of further interest, please click on the above links of selected courses.
+In case of further interest, please click on the above links, search the current lecture registry, or feel free to contact me directly.
