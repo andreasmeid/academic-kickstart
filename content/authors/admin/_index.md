@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include the study of appropriate drug therapy using methods of pharmacoepidemiology, quantitative pharmacology, and pharmacometrics.  
 
 interests:
+- pharmacometrics, population pharmacokinetics / QSP modeling, biostatistics 
+- pharmacoepidemiology for real-world evidence on effectiveness and safety
 - personalized decision support from predictive modeling and machine learning
-- pharmacoepidemiology for real-world evidence on effectiveness and safety, meta-analysis
-- biostatistics, pharmacometrics, population pharmacokinetics / modeling
 
 
 education:
