@@ -31,7 +31,7 @@ summary: Our methodological perspective assumes that individual patients respond
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
