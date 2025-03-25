@@ -1,7 +1,12 @@
 ---
 title: "Phenotypes of Patients with Direct Oral Anticoagulant (DOAC) Underdosing in Atrial Fibrillation: Results from the ARENA Registry"
 authors:
+- Christine Brockmueller
 - admin
+- Jochen Senges
+- Matthias Hochadel
+- Walter E Haefeli
+- Felicitas Stoll
 date: "2024-12-12T00:00:00Z"
 doi: "10.1007/s40261-024-01411-w"
 
