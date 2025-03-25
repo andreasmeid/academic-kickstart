@@ -22,14 +22,14 @@ publication_types: ["2"]
 publication: "*Pharmaceuticals (Basel) 2024;17*"
 publication_short: ""
 
-abstract: []
+abstract: Quantitative systems pharmacology (QSP) models are rarely applied prospectively for decision-making in clinical practice. We therefore aimed to operationalize a QSP model for potas-sium homeostasis to predict potassium trajectories based on spironolactone administrations. For this purpose, we proposed a general workflow that was applied to electronic health records (EHR) from patients treated in a German tertiary care hospital. The workflow steps included model exploration, local and global sensitivity analyses (SA), identifiability analysis (IA) of model parameters, and specification of their inter-individual variability (IIV). Patient covariates, selected parameters, and IIV then defined prior information for the Bayesian a posteriori prediction of individual potassium trajectories of the following day. Following these steps, the successfully operationalized QSP model was interactively explored via a Shiny app. SA and IA yielded five influential and estimable parameters (extracellular fluid volume, hyperaldosteronism, mineral corticoid receptor abundance, potassium intake, sodium intake) for Bayesian prediction. The operationalized model was validated in nine pilot patients and showed satisfactory performance based on the (absolute) average fold error. This provides proof-of-principle for a Prescribing Monitoring of potassium concentrations in a hospital system, which could suggest preemptive clinical measures and therefore potentially avoid dangerous hyperkalemia or hypokalemia.
 
 # Summary. An optional shortened abstract.
-summary: []
+summary: This pilot case shows how a repurposed QSP model could contribute to informed decision-making in everyday clinical practice. With increasing knowledge in the actual patient course, the model updates itself in a Bayesian approach to predict, in our case, the expected potassium course for the next 24 hours, which also takes planned drug administrations into account. Thus, the model prediction could give reason to preemptively modify potassium supplementation, to modify comedication affecting potassium concentrations, to reduce the spironolactone dose or, for safety, to arrange for additional laboratory measurements. Our use case presented here shows a proof-of-principle that this is also conceptually possible with mechanistic QSP models after being operationalized for this purpose.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
