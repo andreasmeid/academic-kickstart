@@ -29,7 +29,7 @@ summary: It was possible to calculate individual treatment effects (ITEs) from r
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
