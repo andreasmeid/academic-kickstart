@@ -24,7 +24,7 @@ publishDate: "2026-02-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Adv NanoBiomed Res 2026;e202500232 *"
+publication: "*Adv NanoBiomed Res 2026;e202500232*"
 publication_short: ""
 
 abstract: []
